@@ -4,7 +4,7 @@
 
 Reduce:
 
-Some all values of an array
+Sum all values of an array
 
 ```js
 
